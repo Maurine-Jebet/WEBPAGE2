@@ -1,0 +1,172 @@
+.containerA image{
+    display: flex;
+    justify-content: space-between;
+    
+    
+   
+
+}
+#seattt{
+    float: right;
+    margin-right: 30px;
+    width: 400px;
+    height: 300px;
+
+}
+.containerA ul li{
+display: inline-flex;
+padding: 20px;
+align-items: center;
+text-decoration: none;
+gap: 15%;
+}
+#lists{
+    margin-left: 30%;
+}
+/* .nav{
+    margin-right: 40%;
+    text-decoration: none;
+    justify-content: space-between;
+    display: flex;
+    box-sizing: border-box;
+    gap: 40%;
+} */
+.containerB image{
+    display: flex;
+    float: right;
+}
+.containerE{
+    background-color: black;
+    color: white;
+}
+.nav2{
+    display: flex;
+    box-sizing: border-box;
+    gap: 20%;
+    padding-right: 20px;
+    justify-content:space-between ;
+}
+.containerBlack{
+    box-sizing: border-box;
+    gap: 5px;
+    display: flex;
+    justify-content: space-between;
+     font-weight: bold; 
+     background-color: beige;
+
+}
+.containerfff{
+    background-color: dimgray;
+}
+.containerGreen{
+    box-sizing: border-box;
+    gap: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.containerYellow{
+    box-sizing: border-box;
+    gap: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.containerPurple{
+    box-sizing: border-box;
+    gap: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.containerWhite{ 
+    box-sizing: border-box;
+    gap: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.containerBlue{
+    box-sizing: border-box;
+    gap: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#view{
+    float: right;
+    width: 25%;
+    margin-top: -18%;
+    margin-right: 30%;
+}
+#product{
+    text-align: center;
+    font-size: 200%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.chair{
+    display: flex;
+    margin-left: 10%;
+
+}
+.containerD{
+    display: flex;
+    margin-left: 5%;
+    justify-content: space-between;
+}
+.containerE{
+    text-align: center;
+}
+#box{
+    width:500px ;
+    height: 600px;
+}
+#frog{
+    margin-right: 100px;
+    width: 500px;
+    height: 600px;
+}
+#bod{
+    width: 500px;
+    height: 500px;
+}
+#bud{
+    margin-top: 100px;
+}
+.footer1{
+    margin-left: 13%;
+}
+.footer2{
+    margin-left: 5%;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.footer3{
+    margin-left: 5%;
+}
+.footer4{
+    margin-left: 5%;
+}
+.footer5{
+    margin-left: 5%;
+}
+.footer6{
+    display: flex;
+    gap: 10%;
+}
+#footer7{
+    margin-left: 13%;
+}
+.footer8{
+    margin-left: 20%;
+}
+.footer9{
+    margin-left: 40%;
+}
+/* #icons{
+
+
+  
+
+
+
+
